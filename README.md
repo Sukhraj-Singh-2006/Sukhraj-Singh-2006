@@ -123,9 +123,8 @@ I enjoy turning ideas into real-world software products and constantly improving
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukhraj-Singh-2006&theme=tokyo-night&hide_border=true"/>
+<img src="https://ghchart.rshah.org/Sukhraj-Singh-2006" alt="GitHub Contributions" />
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies
