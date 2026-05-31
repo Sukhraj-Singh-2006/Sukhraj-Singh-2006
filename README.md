@@ -122,17 +122,6 @@ I enjoy turning ideas into real-world software products and constantly improving
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukhraj-Singh-2006&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffffff&area=true&hide_border=true" />
 </p>
 
-<p align="center">
-<img src="https://ghchart.rshah.org/Sukhraj-Singh-2006" alt="GitHub Contributions" />
-</p>
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sukhraj-Singh-2006&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
 ---
 
 ## 🚀 Featured Repositories
