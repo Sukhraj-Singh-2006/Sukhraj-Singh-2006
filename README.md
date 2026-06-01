@@ -141,6 +141,6 @@ I enjoy turning ideas into real-world software products and constantly improving
 
 ---
 
-<p align="center">
+<p align="left">
 ⭐ Thanks for visiting my profile! Feel free to connect, collaborate, and build amazing projects together.
 </p>
