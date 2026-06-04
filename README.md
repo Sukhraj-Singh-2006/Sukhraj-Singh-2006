@@ -123,6 +123,12 @@ I enjoy turning ideas into real-world software products and constantly improving
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sukhraj-Singh-2006/Sukhraj-Singh-2006/output/github-contribution-grid-snake.svg" />
+</p>
+---
 
 ## 🚀 Featured Repositories
 
