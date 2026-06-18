@@ -1,4 +1,4 @@
-<h5 align="center">Hi 👋 I'm Sukhraj Singh</h5>
+<h1 align="center">Hi 👋 I'm Sukhraj Singh</h1>
 
 <h3 align="center">
 B.Tech CSE Student | Full Stack Developer | AI & ML Enthusiast
