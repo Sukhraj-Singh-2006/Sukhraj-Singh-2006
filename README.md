@@ -135,12 +135,12 @@ I enjoy turning ideas into real-world software products and constantly improving
 
 ## 👀 Profile Views
 
-<p align="center">
+<p1 align="center">
 <img src="https://komarev.com/ghpvc/?username=Sukhraj-Singh-2006&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</p>
+</p1>
 
 ---
 
-<p align="center">
+<p2 align="center">
 ⭐ Thanks for visiting my profile! Feel free to connect, collaborate, and build amazing projects together.
-</p>
+</p2>
