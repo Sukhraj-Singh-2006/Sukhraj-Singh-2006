@@ -10,11 +10,11 @@ B.Tech CSE Student | Full Stack Developer | AI & ML Enthusiast
 
 ---
 
-<p align="center">
+<p1 align="center">
 💻 Code • Build • Learn • Repeat &nbsp;&nbsp; | &nbsp;&nbsp;
 🚀 Turning Ideas Into Real-World Solutions &nbsp;&nbsp; | &nbsp;&nbsp;
 ⚡ Passionate About Technology & Innovation
-</p>
+</p1>
 
 ---
 
@@ -118,9 +118,9 @@ I enjoy turning ideas into real-world software products and constantly improving
 
 ## 📈 Contribution Activity
 
-<p align="center">
+<p1 align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukhraj-Singh-2006&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffffff&area=true&hide_border=true" />
-</p>
+</p1>
 
 ---
 
