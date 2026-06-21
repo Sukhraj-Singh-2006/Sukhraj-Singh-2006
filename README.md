@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 I'm Sukhraj Singh</h2>
+<h1 align="center">Hi 👋 I'm Sukhraj Singh</h1>
 
 <h3 align="center">
 B.Tech CSE Student | Full Stack Developer | AI & ML Enthusiast
@@ -118,9 +118,9 @@ I enjoy turning ideas into real-world software products and constantly improving
 
 ## 📈 Contribution Activity
 
-<p1 align="center">
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukhraj-Singh-2006&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffffff&area=true&hide_border=true" />
-</p1>
+</p>
 
 ---
 
