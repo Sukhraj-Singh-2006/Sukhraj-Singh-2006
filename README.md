@@ -52,7 +52,7 @@ I enjoy turning ideas into real-world software products and constantly improving
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/sukhraj-singh-975397248/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
