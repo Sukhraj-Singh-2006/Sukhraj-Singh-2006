@@ -22,7 +22,7 @@ B.Tech CSE Student | Full Stack Developer | AI & ML Enthusiast
 
 🔭 Focused on building scalable web applications and exploring AI-powered solutions.
 
-👯 Open to collaborating on:
+👯 Open to collaborating :
 
 * Web Development Projects
 * AI & Machine Learning Projects
