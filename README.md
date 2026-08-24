@@ -76,7 +76,7 @@ I enjoy turning ideas into real-world software products and constantly improving
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
 
 <!-- Languages -->
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
