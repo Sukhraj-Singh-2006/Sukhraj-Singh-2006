@@ -119,7 +119,7 @@ I enjoy turning ideas into real-world software products and constantly improving
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="./assets/contribution-activity.svg" alt="Sukhraj Singh's Contribution Graph" width="50%" />
+  <img src="./assets/contribution-activity.svg" alt="Sukhraj Singh's Contribution Graph" width="90%" />
 </p>
 
 ---
