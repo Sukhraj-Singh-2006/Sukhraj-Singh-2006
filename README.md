@@ -159,8 +159,17 @@ An interactive web application for exploring and discovering locations using map
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sukhraj-Singh-2006&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukhraj-Singh-2006&layout=compact&hide_border=true" height="165"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
+    <img src="./assets/overview.light.svg" alt="GitHub Profile Overview" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
+    <img src="./assets/languages.light.svg" alt="GitHub Language Statistics" width="100%" />
+  </picture>
 </p>
 
 ---
