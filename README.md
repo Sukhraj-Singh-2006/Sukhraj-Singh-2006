@@ -161,7 +161,6 @@ An interactive web application for exploring and discovering locations using map
 <p align="center">
   <img src="https://img.shields.io/github/followers/Sukhraj-Singh-2006?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/Sukhraj-Singh-2006?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/repo-count/Sukhraj-Singh-2006?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories" />
 </p>
 
 ---
