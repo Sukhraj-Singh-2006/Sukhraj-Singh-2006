@@ -148,10 +148,10 @@ An interactive web application for exploring and discovering locations using map
 
 ---
 
-## GitHub Activity
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukhraj-Singh-2006&hide_border=true" width="95%" alt="GitHub Contribution Graph"/>
+  <img src="./assets/contribution-activity.svg" alt="Sukhraj Singh's Contribution Graph" width="90%" />
 </p>
 
 ---
