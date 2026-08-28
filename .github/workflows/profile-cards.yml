@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate profile cards
-        uses: seijikohara/profile-cards-action@v0
+        uses: seijikohara/profile-cards-action@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: Sukhraj-Singh-2006
