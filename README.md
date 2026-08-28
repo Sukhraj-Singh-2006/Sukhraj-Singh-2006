@@ -1,146 +1,200 @@
-<h1 align="center">Hi 👋 I'm Sukhraj Singh</h1>
+<h1 align="center">Hi, I'm Sukhraj Singh 👋</h1>
 
-<h2 align="center">
-B.Tech CSE Student | Full Stack Developer | AI & ML Enthusiast
-</h2>
+<h3 align="center">
+B.Tech CSE Student • Full Stack Developer • AI/ML Enthusiast
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Building+Real+World+Software" />
+  <a href="https://github.com/Sukhraj-Singh-2006">
+    <img src="https://komarev.com/ghpvc/?username=Sukhraj-Singh-2006&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Sukhraj-Singh-2006?tab=followers">
+    <img src="https://img.shields.io/github/followers/Sukhraj-Singh-2006?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sukhraj-singh-975397248/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:24BCS10040@cuchd.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/its_sukhraj06/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<p1 align="center">
-💻 Code • Build • Learn • Repeat &nbsp;&nbsp; | &nbsp;&nbsp;
-🚀 Turning Ideas Into Real-World Solutions &nbsp;&nbsp; | &nbsp;&nbsp;
-⚡ Passionate About Technology & Innovation
-</p1>
+## About Me
+
+I'm a Computer Science Engineering student passionate about building **full-stack applications, intelligent systems, and practical software solutions**.
+
+My primary interests include:
+
+* Full Stack Web Development
+* Artificial Intelligence & Machine Learning
+* Software Engineering
+* Backend Development & APIs
+* Database Design
+* System Design & Deployment
+
+I enjoy taking an idea from **concept → development → deployment** and turning it into a usable product.
 
 ---
 
-## 👨‍💻 About Me
+## What I'm Working On
 
-🔭 Focused on building scalable web applications and exploring AI-powered solution.
-
-👯 Open to collaborating :
-
-* Web Development Projects
-* AI & Machine Learning Projects
-* Open Source Contributions
-
-🤝 Continuously improving my skills in software engineering, system design, and modern development practices.
-
-🌱 Currently Learning:
-
-* Advanced React Patterns
-* Node.js & Express
-* Cloud Deployment
-* System Design
-
-💬 Ask Me About:
-
-* JavaScript
-* React
-* Python
-* Machine Learning
-* Full Stack Development
-
-⚡ Fun Fact:
-I enjoy turning ideas into real-world software products and constantly improving performance, scalability, and user experience.
+* Building production-oriented full-stack applications
+* Exploring AI/ML applications in real-world problems
+* Improving backend architecture and API design
+* Learning scalable system design and deployment
+* Contributing to open-source projects
 
 ---
 
-## 🌐 Connect With Me
+## Technical Skills
 
-<p align="center">
+### Languages
 
-<a href="https://www.linkedin.com/in/sukhraj-singh-975397248/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,sql"/>
+</p>
 
-<a href="https://www.instagram.com/its_sukhraj06/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+### Frontend
 
-<a href="mailto:24BCS10040@cuchd.in">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite"/>
+</p>
 
-<a href="https://github.com/Sukhraj-Singh-2006">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+### Backend & APIs
 
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase"/>
+</p>
+
+### AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn"/>
+</p>
+
+### Tools & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel"/>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Projects
+
+### 🧠 AI-Powered Bone Fracture Detection
+
+Deep learning system for **multiclass bone fracture classification** using computer vision and transformer-based models.
+
+**Tech:** Python • PyTorch • Vision Transformer • OpenCV • Machine Learning
+
+---
+
+### 📋 Form & Finance Management System
+
+A full-stack workflow management system developed for **IIT Ropar's Centre of Excellence in Socio-Environmental Sustainability for River Sand Mining (CoE-SEnSRS)**.
+
+Features include:
+
+* Digital form submission
+* Role-based access control
+* Automated approval workflows
+* Digital signatures
+* Finance management
+* PDF generation and processing
+* Database-backed workflow tracking
+
+**Tech:** React • Node.js • Express.js • Supabase • PostgreSQL • PDF-Lib
+
+---
+
+### 📊 Smart Attendance Management System
+
+A web-based attendance platform with separate interfaces for students, teachers, and administrators.
+
+Features include:
+
+* Attendance management
+* Student & teacher dashboards
+* Low-attendance detection
+* PDF report generation
+* OTP-based password recovery
+* AI chatbot integration
+* Face-recognition authentication
+
+**Tech:** Python • Flask • SQLite • OpenCV • Face Recognition
+
+---
+
+### 🧭 Pathfinder
+
+An interactive web application for exploring and discovering locations using map-based technologies and external APIs.
+
+**Tech:** React • JavaScript • Leaflet.js • OpenStreetMap • Overpass API
+
+---
+
+## GitHub Activity
 
 <p align="center">
-
-<!-- Languages -->
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss"/>
-
-<!-- Backend -->
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge"/>
-
-<!-- Databases -->
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase"/>
-
-<!-- AI/ML -->
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
-
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukhraj-Singh-2006&hide_border=true" width="95%" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## GitHub Statistics
 
 <p align="center">
-  <img src="./assets/contribution-activity.svg" alt="Sukhraj Singh's Contribution Graph" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sukhraj-Singh-2006&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukhraj-Singh-2006&layout=compact&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 🚀 Featured Repositories
+## Current Learning
 
-* AI-Powered-Bone-Fracture-Detection-System-with-Multiclass-Classification
-* Pathfinder
-* Smart-Attendance-Management-System
-* hr-attrition-predictor
-
----
-
-## 👀 Profile Views
-
-<p1 align="center">
-<img src="https://komarev.com/ghpvc/?username=Sukhraj-Singh-2006&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</p1>
+```text
+Advanced React        ███████████████░░░░░
+Node.js & Backend     ███████████████░░░░░
+System Design         ███████████░░░░░░░░░
+Cloud & Deployment    ████████████░░░░░░░░
+AI / ML               ███████████████░░░░░
+```
 
 ---
 
-<p2 align="center">
-⭐ Thanks for visiting my profile! Feel free to connect, collaborate, and build amazing projects together.
-</p2>
+## Let's Connect
+
+I'm always interested in:
+
+* Building interesting software
+* Collaborating on AI/ML projects
+* Full-stack development
+* Open-source contributions
+* Learning and sharing with other developers
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sukhraj-singh-975397248/">LinkedIn</a>
+  •
+  <a href="https://github.com/Sukhraj-Singh-2006">GitHub</a>
+  •
+  <a href="mailto:24BCS10040@cuchd.in">Email</a>
+</p>
+
+<p align="center">
+  <b>Build. Learn. Improve. Repeat.</b>
+</p>
