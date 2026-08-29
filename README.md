@@ -168,10 +168,10 @@ An interactive web application for exploring and discovering locations using map
 ## Current Learning
 
 ```text
-Advanced React        ███████████████░░░░░
+Advanced React        ████████████████░░░░
 Node.js & Backend     ███████████████░░░░░
 System Design         ███████████░░░░░░░░░
-Cloud & Deployment    ████████████░░░░░░░░
+Cloud & Deployment    █████████████████░░░
 AI / ML               ███████████████░░░░░
 ```
 
