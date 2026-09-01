@@ -170,7 +170,7 @@ An interactive web application for exploring and discovering locations using map
 ```text
 Advanced React        ████████████████░░░░
 Node.js & Backend     ███████████████░░░░░
-System Design         █████████████░░░░░░░
+System Design         ██████████████░░░░░░
 Cloud & Deployment    █████████████████░░░
 AI / ML               ███████████████░░░░░
 ```
