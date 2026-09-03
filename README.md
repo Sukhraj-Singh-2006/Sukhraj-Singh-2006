@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sukhraj Singh 👋</h1>
 
-<h2 align="center"
+<h2 align="center">
 B.Tech CSE Student • Full Stack Developer • AI/ML Enthusiast
 </h2>
 
