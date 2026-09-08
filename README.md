@@ -104,7 +104,7 @@ Deep learning system for **multiclass bone fracture classification** using compu
 
 ---
 
-### 📋 Form & Finance Management System
+### 📋 Form Management System
 
 A full-stack workflow management system developed for **IIT Ropar's Centre of Excellence in Socio-Environmental Sustainability for River Sand Mining (CoE-SEnSRS)**.
 
