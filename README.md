@@ -118,7 +118,7 @@ Features include:
 - PDF generation and processing
 - Database-backed workflow tracking
 
-**Tech:** React • Node.js • Express.js • Supabase • PostgreSQL • PDF-Lib
+**Tech:** React • Node.js • Express.js • Docker • PostgreSQL • PDF-Lib • QNAP
 
 ---
 
