@@ -34,7 +34,7 @@ I'm a Computer Science Engineering student passionate about building **full-stac
 My primary interests include:
 
 - Full Stack Web Development
-- Artificial Intelligence & Machine Learning
+- Artificial Intelligence & Machine Learning    
 - Software Engineering
 - Backend Development & APIs
 - Database Design
